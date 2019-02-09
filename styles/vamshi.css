@@ -1,0 +1,18 @@
+.img-circle{
+    width: 200px;
+    border-radius: 50%;
+}
+body{
+    background-image: url("./2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.vamshi{
+    text-align: center;
+}
+#web{
+    text-align: center;
+}
+footer{
+    color: white;
+}
