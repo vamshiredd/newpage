@@ -1,3 +1,4 @@
+
 function multiplication(){
 
         
@@ -6,4 +7,4 @@ function multiplication(){
     
     let mul = parseInt(a)*parseInt(b);
     alert("Multiplication of number 1 and number 2 gives "+mul);
-    }
+}
