@@ -17,9 +17,6 @@
 // https://www.sitepoint.com/getting-started-qunit/
 // http://jsbin.com/tusuvixi/1/edit?html,js,output
 
-QUnit.test("Here's a test that should always pass", function (assert) {
-    assert.ok(1 == "1", "1=1 success!");
-});
 
 QUnit.test('Testing our pointCal function with four sets of inputs', function (assert) {
     assert.strictEqual(multiply(2,2), 4, "Positive");
